@@ -27,3 +27,9 @@ const ageJules = currentYear - 1970;
 const ageKate = currentYear - 2007;
 
 console.log(ageDarren, ageJules, ageKate);
+
+let x = 10 + 5;
+x += 10; // x = x + 10 = 25
+x *= 4; // x = x * 4 = 100
+x++; //x = x + 1
+console.log(x);
