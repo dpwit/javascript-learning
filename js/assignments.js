@@ -1,4 +1,4 @@
-language = 'Englidh';
+language = 'English';
 const country = 'England';
 const continent = 'Europe';
 let population = 6;
