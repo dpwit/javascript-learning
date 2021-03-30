@@ -40,7 +40,6 @@ x += 10; // x = x + 10 = 25
 x *= 4; // x = x * 4 = 100
 x++; //x = x + 1
 console.log(x);
-*/
 
 const now = 2021;
 const ageDarren = now - 1969;
@@ -55,3 +54,4 @@ console.log(x, y);
 
 const averageAge = (ageDarren + ageJules) / 2;
 console.log(ageDarren, ageJules, averageAge);
+*/
