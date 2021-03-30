@@ -1,18 +1,17 @@
-/*
-let country = "England";
-let continent = "Europe";
+const country = "England";
+const continent = "Europe";
 let population = 1000000;
 
 console.log(country);
 console.log(continent);
 console.log(population);
 
-let isIsland = true;
-let language;
+const isIsland = true;
+let language = "English";
 
 console.log(isIsland);
 console.log(language);
-*/
+
 
 //let variables can change values
 let age = 30;
