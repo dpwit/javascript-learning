@@ -74,6 +74,7 @@ line 2
 line 3
 etc`);
 */
+//if else control structure
 const age = 17;
 
 if (age >= 18) {
@@ -82,3 +83,14 @@ if (age >= 18) {
     const yearsLeft = 18 - age;
     console.log(`You're not old enough to drive yet. You need to wait another ${yearsLeft} year(s)`)
 }
+
+const birthYear = 1969;
+let century;
+
+if (birthYear <= 2000) {
+    century = 20;
+} else {
+    century = 21;
+}
+
+console.log(century);
