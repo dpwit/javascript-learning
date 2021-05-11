@@ -67,3 +67,9 @@ console.log(darren);
 //template literals using back ticks `` ES6
 const darrenTl = `I'm ${firstName}, a ${year - birthYear} year old ${jobTitle}`;
 console.log(darrenTl);
+
+//multi line template literal string ES6
+console.log(`Line 1
+line 2
+line 3
+etc`);
