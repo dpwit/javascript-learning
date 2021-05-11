@@ -54,7 +54,7 @@ console.log(x, y);
 
 const averageAge = (ageDarren + ageJules) / 2;
 console.log(ageDarren, ageJules, averageAge);
-*/
+
 const firstName = 'Darren';
 const jobTitle = 'Director';
 const birthYear = 1969;
@@ -73,3 +73,12 @@ console.log(`Line 1
 line 2
 line 3
 etc`);
+*/
+const age = 17;
+
+if (age >= 18) {
+    console.log("You're old enough to drive!")
+} else {
+    const yearsLeft = 18 - age;
+    console.log(`You're not old enough to drive yet. You need to wait another ${yearsLeft} year(s)`)
+}
